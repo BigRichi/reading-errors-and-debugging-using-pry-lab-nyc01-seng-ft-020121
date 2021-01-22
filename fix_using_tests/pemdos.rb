@@ -8,4 +8,4 @@ def snake_it_up(string)
   end
 end
 
-p snake_it_up("sara")
+p snake_it_up("john")
